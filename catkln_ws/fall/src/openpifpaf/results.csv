@@ -1,0 +1,16 @@
+ncalls,tottime,percall,cumtime,percall,filename:lineno(function)
+1,0.000,0.000,0.000,0.000,{method 'acquire' of '_thread.RLock' objects}
+1,0.000,0.000,0.000,0.000,{method 'release' of '_thread.RLock' objects}
+1,0.000,0.000,0.000,0.000,{method 'startswith' of 'str' objects}
+1,0.000,0.000,0.000,0.000,{method 'get' of 'cv2.VideoCapture' objects}
+1,0.002,0.002,0.002,0.002,{method 'read' of 'cv2.VideoCapture' objects}
+1,0.000,0.000,0.000,0.000,{method 'release' of 'cv2.VideoCapture' objects}
+2,0.000,0.000,0.000,0.000,/home/ertyu116/anaconda3/envs/falldetection_openpifpaf/lib/python3.7/site-packages/openpifpaf/show/animation_frame.py:61(iter)
+1,0.000,0.000,0.000,0.000,{method 'disable' of '_lsprof.Profiler' objects}
+1,0.000,0.000,0.000,0.000,/home/ertyu116/anaconda3/envs/falldetection_openpifpaf/lib/python3.7/logging/__init__.py:212(_acquireLock)
+1,0.000,0.000,0.000,0.000,/home/ertyu116/anaconda3/envs/falldetection_openpifpaf/lib/python3.7/logging/__init__.py:221(_releaseLock)
+1,0.000,0.000,0.000,0.000,/home/ertyu116/anaconda3/envs/falldetection_openpifpaf/lib/python3.7/logging/__init__.py:1368(info)
+1,0.000,0.000,0.000,0.000,/home/ertyu116/anaconda3/envs/falldetection_openpifpaf/lib/python3.7/logging/__init__.py:1600(getEffectiveLevel)
+1,0.000,0.000,0.000,0.000,/home/ertyu116/anaconda3/envs/falldetection_openpifpaf/lib/python3.7/logging/__init__.py:1614(isEnabledFor)
+
+

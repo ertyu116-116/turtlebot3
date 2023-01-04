@@ -1,0 +1,4 @@
+2021-12-02 13:59:29,812 [INFO]: MainProcess video.py(cli:115) >> neural network device: cuda
+2021-12-02 13:59:29,813 [DEBUG]: MainProcess configparser.py(__init__:16) >> config file loaded
+2021-12-02 13:59:29,813 [INFO]: MainProcess multistreamloader.py(generateStreams:33) >> Initialising stream: webcam
+2021-12-02 13:59:40,376 [INFO]: MainProcess core.py(signal_shutdown:560) >> signal_shutdown [atexit]
